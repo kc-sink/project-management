@@ -1,0 +1,8 @@
+node_modules/
+client/node_modules/
+client/dist/
+studio.db
+*.db-journal
+*.db-wal
+*.db-shm
+.DS_Store
